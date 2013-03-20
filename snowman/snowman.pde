@@ -7,5 +7,8 @@ void draw (){
   
   
   noStroke();
-  elipse (250,400, 100,100);
+  ellipse (250,400, 100,100);
+  ellipse (250,330, 70, 70);
+  ellipse (250,290, 50,50);
+  
 }
